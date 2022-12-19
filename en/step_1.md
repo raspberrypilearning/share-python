@@ -31,4 +31,4 @@ A 'Share your code' window will appear with the link to your project in the **Li
 
 ![The Share your code window with Link field at the top and highlighted url for the project.](images/link-window.png)
 
-Tip: You can share a link to your project even if you don’t have a Trinket account; however, without an account, the link to your project will change each time you update it. If you have shared the link with someone, you will need to send a new link for them to see the changes.
+**Tip:** You can share a link to your project even if you don’t have a Trinket account; however, without an account, the link to your project will change each time you update it. If you have shared the link with someone, you will need to send a new link for them to see the changes.
