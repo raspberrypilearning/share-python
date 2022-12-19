@@ -1,59 +1,34 @@
-## Introduction
+If you are in a club, why not share your project with friends?
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You could also show your family how your project works by sending them a link.
 
-### What you will make
+Please make sure that you **do not** share any personal information about yourself when sharing your projects.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**Tip:** You don't need a Trinket account to share your project.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Click on the menu icon in the top-left of the Trinket editor:
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![A square icon with 3 horizontal bars placed in a vertical stack.](images/burger-menu.png)
+
+A pop out menu will appear on the left hand side. Click on the **Share** option:
+
+![A menu on the left hand side with Share option .](images/share-icon.png)
 
 --- collapse ---
 ---
-title: What you will need
+title: I can't see a Share option
 ---
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
+If you do not see a Share option in this menu. 
+1. Close the pop out menu by clicking anywhere in the Trinket editor
+2. Click on the **Share** button in the top-right of the editor 
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![A top right buttons with 'Share' button highlighted.](images/share-button.png)
 
 --- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
+A 'Share your code' window will appear with the link to your project in the **Link** box. Copy this link to your clipboard:
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+![The Share your code window with Link field at the top and highlighted url for the project.](images/link-window.png)
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Tip: You can share a link to your project even if you don’t have a Trinket account; however, without an account, the link to your project will change each time you update it. If you have shared the link with someone, you will need to send a new link for them to see the changes.
